@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Seam Carving/task/build/
+/Topics/Errors in programs/Theory/build/

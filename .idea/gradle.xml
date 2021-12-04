@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Seam Carving/task" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Seam Carving/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Swap elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Continuation-Passing Style" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/First predicate" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Function composition" />
+            <option value="$PROJECT_DIR$/Topics/Functions as objects/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/RuntimeException" />
+            <option value="$PROJECT_DIR$/Topics/Hierarchy of exceptions/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle arithmetic exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle number format exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Handle string exception" />
+            <option value="$PROJECT_DIR$/Topics/Taming exceptions/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
